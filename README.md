@@ -1,3 +1,3 @@
 # testrepo
 
-# This is a test repositor for the IBM Professional Certificate in Data Science
+# This is a test repository for the IBM Professional Certificate in Data Science
